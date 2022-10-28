@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Oi, Eu sou o <strong>Vitor</strong> 👋.
-- 👨‍💻 Front-End ...
-- 📘 Estudando React ...
+- 👨‍💻 Front-End ... <br>
+- 📘 Estudando React ... <br>
 </p>
 
 <p align="left">
