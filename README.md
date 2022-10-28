@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/vitor-santos-5744861b2/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
  
