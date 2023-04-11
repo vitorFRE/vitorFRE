@@ -1,29 +1,31 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Hello, I'm <strong>Vitor</strong> 👋.  <br>
-- 👨‍💻 Front-End ... <br>
-- 📘 studying Back-End ... <br>
+<p> 
+  Hello, I'm <strong>Vitor</strong> 👋.<br>
+  - 👨‍💻 Front-End ... <br>
+  - 📘 estudando Back-End: Node, Tests, Fastify, TDD... <br>
 </p>
 
-<p align="left">
+<p>
   💌 Linkedin: ⤵️
 </p>
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/vitor-santos-5744861b2/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
  
  ## **GitHub Estatísticas**
 
-<a href="https://github.com/vitorFRE">
+
+ <a  href="https://github.com/vitorFRE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfre&theme=dracula&hide_langs_below=1" />
-</a>
+ </a>
 
 <a href="https://github.com/vitorFRE">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfre&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vitorFRE&theme=neon-palenight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
   
