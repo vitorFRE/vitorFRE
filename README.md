@@ -13,22 +13,10 @@
 <p>
   <a href="https://www.linkedin.com/in/vitor-santos-5744861b2/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
- 
- ## **GitHub Estatísticas**
+</p> 
 
+## **Tecnologias**
 
- <a  href="https://github.com/vitorFRE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfre&theme=dracula&hide_langs_below=1" />
- </a>
-
-<a href="https://github.com/vitorFRE">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfre&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitorFRE&theme=neon-palenight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  
 <div align="left" style="display: inline_block"><br>
   <img  alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img  alt="CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -47,3 +35,17 @@
   <img  alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
 </div>
  
+ 
+ ## **GitHub Estatísticas**
+
+
+ <a  href="https://github.com/vitorFRE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfre&theme=dracula&hide_langs_below=1" />
+ </a>
+
+<a href="https://github.com/vitorFRE">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfre&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vitorFRE&theme=neon-palenight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
