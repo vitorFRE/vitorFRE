@@ -46,6 +46,3 @@
 <a href="https://github.com/vitorFRE">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfre&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitorFRE&theme=neon-palenight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
