@@ -3,7 +3,7 @@
 <p> 
   Hello, I'm <strong>Vitor</strong> 👋.<br>
   - 👨‍💻 Front-End ... <br>
-  - 📘 estudando Back-End: Node, Vitest, Fastify, TDD... <br>
+  - 📘 Nextjs <br>
 </p>
 
 <p>
