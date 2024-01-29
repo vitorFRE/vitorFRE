@@ -3,7 +3,6 @@
 <p> 
   Hello, I'm <strong>Vitor</strong> 👋.<br>
   - 👨‍💻 Front-End ... <br>
-  - 📘 Nextjs <br>
 </p>
 
 <p>
