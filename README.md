@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p> 
   Hello, I'm <strong>Vitor</strong> 👋.<br>
-  - 👨‍💻 Front-End ... <br>
+  - 👨‍💻 Desenvolvedor Front-End<br>
 </p>
 
 <p>
