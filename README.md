@@ -17,8 +17,14 @@ Check out my [portfolio](https://vitor-portifolio.vercel.app/).
 
 ## Projects
 
+## Projects
+
 ### [Kiito](https://kiito.vercel.app/)
-Web-based code screenshot tool with syntax highlighting, multi-language support (tsx, js, etc.) and visual themes (e.g. tokyo-night). Allows customizing font size, opacity, and background image. generating polished code cards ready for portfolios, social posts, and presentations.
+Web-based code screenshot tool with syntax highlighting, multi-language support (tsx, js, etc.) and visual themes (e.g. tokyo-night). Allows customizing font size, opacity, and background image. Generating polished code cards ready for portfolios, social posts, and presentations.  
 `Vite` `TypeScript` `Shiki`
+
+### [Datra](https://datra.vercel.app/)
+Remove EXIF metadata from images in the browser. View metadata (date, camera, GPS, etc.) and download a clean copy — 100% local, no uploads.  
+`Vite` `React` `TypeScript` `Tailwind` `exifr`
 
 ---
