@@ -17,6 +17,11 @@ Check out my [portfolio](https://vitor-portifolio.vercel.app/).
 
 ## Projects
 
+### [Pesquei Agora](https://www.pesqueiagora.site/)
+Aplicativo mobile de pesca para organizar pescarias e acompanhar o histórico de atividades, com elementos sociais como feed, perfil e conquistas.  
+Desenvolvido com foco em performance, usabilidade e experiência nativa.
+`React Native` `Expo` `TypeScript` `Tailwind` `Vite` `React`
+
 ### [Kiito](https://kiito.vercel.app/)
 Web-based code screenshot tool with syntax highlighting, multi-language support (tsx, js, etc.) and visual themes (e.g. tokyo-night). Allows customizing font size, opacity, and background image. Generating polished code cards ready for portfolios, social posts, and presentations.  
 `Vite` `TypeScript` `Shiki`
